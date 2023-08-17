@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Hoje trabalho como T.I. e também como desenvolvedor VBA
 - 🌱 Estudando 📡 HTML, 🪄 CSS, 🛠️ Javascript
 - 📫 Contate-me pelo email fahendev@gmail.com
-- ⚡ Fato engraçado: Achei que excel era limitado e ineficiente, bem como o Access
+- ⚡ Fato engraçado: Achei que excel era limitado e ineficiente, o mesmo sobre o Access
 
 <div align="center">
   <a href="https://github.com/PinguinBarbudo">
